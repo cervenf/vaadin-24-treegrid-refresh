@@ -30,16 +30,16 @@ public class DataService {
                     new TreeNode(14L, "D")
             );
             case "2" -> List.of(
-                    new TreeNode(11L, "E"),
-                    new TreeNode(12L, "F"),
-                    new TreeNode(13L, "G"),
-                    new TreeNode(14L, "H")
+                    new TreeNode(21L, "E"),
+                    new TreeNode(22L, "F"),
+                    new TreeNode(23L, "G"),
+                    new TreeNode(24L, "H")
             );
             case "3" -> List.of(
-                    new TreeNode(11L, "I"),
-                    new TreeNode(12L, "J"),
-                    new TreeNode(13L, "K"),
-                    new TreeNode(14L, "L")
+                    new TreeNode(31L, "I"),
+                    new TreeNode(32L, "J"),
+                    new TreeNode(33L, "K"),
+                    new TreeNode(34L, "L")
             );
             default -> emptyList();
         };
